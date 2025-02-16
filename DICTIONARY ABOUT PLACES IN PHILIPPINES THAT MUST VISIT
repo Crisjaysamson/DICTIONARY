@@ -1,0 +1,35 @@
+DATA = {
+    "SAN AGUSTIN CHURCH": "Constructed back in 1586, San Agustin Church is one of the oldest churches of the Philippines.",
+    "NATIONAL MUSEUM OF THE PHILIPPINES": "The National Museum of the Philippines is one of the best Philippines places to visit.",
+    "CHOCOLATE HILLS": "the Chocolate Hills is considered to be one of the most picturesque Philippines places to visit.",
+    "BANAUE RICE TERRACES": "The famous Banaue Rice Terraces once were just winding fields that laid embracing a mountain side.",
+    "PUERTO PRINCESA SUBTERRANEAN RIVER NATIONAL PARK": "the Puerto Princesa Subterranean River National Park is the abode of nature lovers.",
+    "SIARGAO": "Siargao is known to be one of the famous places in the Philippines for surfing.",
+    "SAMAL ISLAND": "Samal Island is said to be one of the largest resort islands in the entire Philippines.",
+    "CORON ISLAND": "Being the third largest island, Coron is one of the best places to visit in the Philippines.",
+    "TAGAYTAY": "Tagaytay is quite popular in scenic beauty and the comfort its weather provides.",
+    "DONSOL": "If you want to get away from the regular hustle-bustle of the urban lifestyle, Donsol will be one of the amazing Philippines places to visit.",
+    "MANILA BAY": "With a circumference of 120 miles and an area of around 770 square miles, Manila Bay is considered to be one of the largest harbours of the world.",
+    "BATAN ISLAND": "One of the most interesting places to visit in the Philippines is Batan Island. It is a historical hotspot from WWII.",
+    "APO ISLAND": "If you want to discover the beauty of coral reefs and marine life, no other places in the Philippines can match the beauty of Apo Island.",
+    "AYALA MUSEUM": "Lying near the famous Greenbelt Mall, Ayala Museum is one of the well-known historical places to see in Philippines.",
+    "DANAO ADVENTURE PARK": "As its name suggests, the eco-tourism destination of Danao Adventure Park  is one of the perfect places to visit in the Philippines for fun, leisure, thrill, and adventure seekers.",
+    "NALUSUAN ISLAND": "Nestled between Mactan Island and Bohol province, the picturesque Nalusuan Island was nothing but a sandbar during the ancient days.",
+    "JUMALON BUTTERFLY SANCTUARY": "Filled with a rich collection of colourful and exotic butterflies, the Jumalon Butterfly Sanctuary is one of the must-visit tourist places in Philippines.",
+    "WHITE BEACH": "Stretching up to a length of around 4 kilometers, the postcard-perfect White Beach is sprawled across half of the west coast of Boracay Island.",
+    "CRYSTAL COVE ISLAND": "Perched between Panay Island and Boracay Island, Crystal Cove Island is a breathtaking park dating back to the stone age.",
+    "MT. LUHO VIEW DECK": "Nestled at an altitude of around 328 feet above sea level, Mt. Luho makes for the highest viewpoint of Boracay Island.",
+    "RIZAL PARK": "Known popularly for its historical significance, Rizan Park is the largest park in the city of Manila.",
+    "FORT SANTIAGO": "Lying in the ancient Intramuros city, Fort Santiago dates back to 1593.",
+    "MANILA OCEAN PARK": "Perched behind Quirino Grandstand, Manila Ocean Park is one of the famous marine themed parks and amusement places to visit in Philippines.",
+    "STAR CITY AMUSEMENT PARK": "The air-conditioned, all weather amusement park Star City is considered to be one of the largest recreational places in Philippines.",
+    "SAN SEBASTIAN CHURCH": "Opened back in 1891, San Sebastian Church is a charming Roman Catholic Church, flaunting a Gothic Revival architectural design.",
+    "INTRAMUROS": "Constructed by the colonial Spanish or more specifically by Miguel Lopez de Legaspi back in 1571, Intramuros is nicknamed as the “Walled City”.",
+    "MANILA CATHEDRAL": "Situated in Intramuros and originally constructed back in 1571, Manila Cathedral is considered to be Manila’s main Roman Catholic church.",
+    "PACO PARK": "Situated in the area that once served as the city’s municipal cemetery and formerly known as Cementerio General de Dilao, Paco Park is one of the greenest places to visit in Philippines.",
+    "HINAGDANAN CAVE": "Featuring flying bats, spikes hanging from the roof, and deep waters, Hinagdanan Cave apparently appears as one of the spookiest Philippines places to visit.",
+    "KAWASAN FALLS": "Offering beauty, serenity, and tranquility, Kawasan Falls is one of the most scenic places to visit in the Philippines."
+    
+}
+a = input("Places in Philippines that must visit: ")
+print(DATA[a])
